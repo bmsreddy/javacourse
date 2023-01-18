@@ -1,10 +1,10 @@
 package com.firstprogramme;
 
 public class Variableexamples {
-	int i = 100; //Non-static variable
+	int i = 200; //Non-static variable
 	static String s = "abc"; //static variable
 	void Localexample() {   //Non-static method
-		double d = 500d; //local variable
+		double d = 200d; //local variable
 		System.out.println(d);
 		
 	}
